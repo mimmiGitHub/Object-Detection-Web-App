@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.heading {
+font-size: 25px;
+width: 100%;
+margin: 0px;
+color: white;
+box-shadow: 6px 6px 6px black;
+}
+.anchor_tag {
+    color:white;
+    background-color: black; 
+    font-size: 20px;
+    padding:25px;
+    margin-top: 500px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
